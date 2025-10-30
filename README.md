@@ -1,5 +1,3 @@
-# Churn-Analysis-Prediction-Project
-Analyze historical churn drivers, profile at-risk customers, and deploy a machine learning model for future churn prediction.
 # Telecom Churn Prediction Project 
 This is an end-to-end data science project demonstrating the full pipeline from data engineering to machine learning deployment for customer retention.
 # The Goal
